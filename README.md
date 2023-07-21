@@ -1,7 +1,7 @@
 # QGSS 2020 - Quantum Computing and Hardware
 
 ```
-Note : All the resources only for learning purpose.
+Note : All the resources only for learning purpose. I just downloaded the lab file and execute it for learning purposes. the original source file available at the qiskit community github page. 
 
 ```
 
